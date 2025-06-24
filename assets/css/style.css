@@ -19,6 +19,14 @@ body {
     background-color: #c9c9d4;    
 }
 
+.bat-bar {
+  width: 100%;
+  height: 8rem;
+  background: url('../images/bats.jpg') center center;
+  background-size: contain;
+  margin: 2rem 0;
+}
+
 .spaceevenly {
     display: flex;
     justify-content: space-evenly;
