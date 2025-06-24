@@ -18,3 +18,22 @@ body {
     font-size: 1.6rem;
     background-color: #c9c9d4;    
 }
+
+#footer {    
+    background: #0b060e;
+    height: 10rem;
+    width: 100%;  
+    color: #ffffff;
+    padding: 2rem;
+    text-align:center;
+    margin: 0;     
+ }
+
+ #footer a {
+    text-decoration: none;
+    color:#ffffff;
+ }
+
+ #footer a:hover {
+    text-transform: uppercase;
+ }
