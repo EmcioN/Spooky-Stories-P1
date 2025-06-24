@@ -56,6 +56,12 @@ body {
     font-weight: bold;    
 }
 
+.logo {
+    height: 50px;
+    width: auto;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
 
 /* Footer */
 
