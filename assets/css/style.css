@@ -175,6 +175,33 @@ section[id^="story"] img {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
+#newsletter h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 1rem;
+}
+
+#newsletter p {
+  font-size: 2rem;
+  font-weight: 500;
+  color: #000;
+  margin-bottom: 2rem;
+}
+
+.newsletter-link {
+  padding: 1rem 2rem;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 18px;  
+}
+
+.newsletter-link:hover {
+  background-color: #ff4444;
+}
+
 /* Footer */
 
 #footer {
