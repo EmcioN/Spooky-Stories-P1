@@ -225,6 +225,17 @@ section[id^="story"] img {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
+.newsletter-page-box h1 {
+  font-size: 4rem;  
+  color: #ff4444;
+  margin-bottom: 1.5rem;
+}
+
+.newsletter-page-box p {
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
+}
+
 /* Footer */
 
 #footer {
