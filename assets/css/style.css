@@ -195,6 +195,7 @@ section[id^="story"] img {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
+  cursor: pointer;
   border-radius: 18px;
   transition: background 0.3s ease;  
 }
@@ -226,14 +227,45 @@ section[id^="story"] img {
 }
 
 .newsletter-page-box h1 {
-  font-size: 4rem;  
+  font-size: 4rem;
+  font-weight: bold;  
   color: #ff4444;
   margin-bottom: 1.5rem;
 }
 
 .newsletter-page-box p {
-  font-size: 2rem;
+  font-size: 3rem;
   margin-bottom: 2.5rem;
+}
+
+.newsletter-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.newsletter-form input[type="email"] {
+  padding: 1rem;
+  font-size: 2rem;
+  border-radius: 6px;
+  border: none;
+  width: 100%;
+  color: #000;
+}
+
+.newsletter-form button {
+  padding: 1rem;
+  font-size: 2rem;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.newsletter-form button:hover {
+  background-color: #ff4444;
 }
 
 /* Footer */
