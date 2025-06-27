@@ -143,7 +143,7 @@ section[id^="story"] h2 {
 
 section[id^="story"] p {
   max-width: 75vw;
-  text-align: center;
+  text-align: left;
 }
 
 /* Footer */
