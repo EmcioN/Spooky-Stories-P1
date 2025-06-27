@@ -103,6 +103,19 @@ body {
     
 }
 
+.welcome-text {
+    text-align: center;
+    width: 80vw;
+    margin: 2rem auto;
+    line-height: 1.6;
+    font-size: 2rem;
+}
+
+.welcome-text h1 {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
 /* Footer */
 
 #footer {    
