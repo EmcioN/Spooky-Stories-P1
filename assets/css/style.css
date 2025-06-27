@@ -189,7 +189,7 @@ section[id^="story"] img {
   margin-bottom: 2rem;
 }
 
-.newsletter-link {
+#newsletter a {
   padding: 1rem 2rem;
   background-color: #000;
   color: #fff;
@@ -199,7 +199,7 @@ section[id^="story"] img {
   transition: background 0.3s ease;  
 }
 
-.newsletter-link:hover {
+#newsletter a:hover {
   background-color: #ff4444;
 }
 
