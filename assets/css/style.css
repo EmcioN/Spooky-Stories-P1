@@ -17,7 +17,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 1.6rem;
   background-color: #c9c9d4;
-  background-image: url('../images/background.png');
+  background-image: url("../images/background.png");
   background-size: cover;
   background-position: center;
 }
@@ -143,7 +143,6 @@ section[id^="story"] h2 {
   font-weight: 600;
   margin-bottom: 1rem;
   text-align: center;
-  
 }
 
 section[id^="story"] p {
@@ -197,7 +196,7 @@ section[id^="story"] img {
   font-weight: bold;
   cursor: pointer;
   border-radius: 18px;
-  transition: background 0.3s ease;  
+  transition: background 0.3s ease;
 }
 
 #newsletter a:hover {
@@ -228,7 +227,7 @@ section[id^="story"] img {
 
 .newsletter-page-box h1 {
   font-size: 4rem;
-  font-weight: bold;  
+  font-weight: bold;
   color: #ff4444;
   margin-bottom: 1.5rem;
 }
