@@ -325,7 +325,7 @@ section[id^="story"] img {
   }
 }
 
-@media (min-width: 1400px){
+@media (min-width: 1400px) {
   .welcome-text {
     padding-right: 9rem;
   }
@@ -333,7 +333,7 @@ section[id^="story"] img {
     height: 89rem;
   }
 }
-@media (min-width: 1650px){
+@media (min-width: 1650px) {
   .welcome-text {
     padding-right: 15rem;
   }
