@@ -324,3 +324,17 @@ section[id^="story"] img {
     height: 30rem;
   }
 }
+
+@media (min-width: 1400px){
+  .welcome-text {
+    padding-right: 9rem;
+  }
+  .hero-image {
+    height: 89rem;
+  }
+}
+@media (min-width: 1650px){
+  .welcome-text {
+    padding-right: 15rem;
+  }
+}
